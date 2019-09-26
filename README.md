@@ -10,6 +10,7 @@ liqitian3344 的个人博客
 
 ### 最新
 
+* [模板方法模式](http://liqitian.com/articles/2019/09/26/1569480595931.html)
 * [我在 GitHub 上的开源项目](http://liqitian.com/my-github-repos)
 * [分布式事务（2pc 3pc）](http://liqitian.com/articles/2019/09/03/1567490943919.html)
 * [小记](http://liqitian.com/articles/2019/09/03/1567481755050.html)
