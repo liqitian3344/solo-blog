@@ -1,4 +1,4 @@
-<p align="center"><img alt="liqitian3344 的个人博客" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
+<p align="center"><img alt="liqitian3344 的个人博客" src="https://file.liqitian.com/headimage.png"></p><h2 align="center">
 liqitian3344 的个人博客
 </h2>
 
@@ -10,11 +10,11 @@ liqitian3344 的个人博客
 
 ### 最新
 
-* [模板方法模式](http://liqitian.com/articles/2019/09/26/1569480595931.html)
-* [我在 GitHub 上的开源项目](http://liqitian.com/my-github-repos)
-* [分布式事务（2pc 3pc）](http://liqitian.com/articles/2019/09/03/1567490943919.html)
-* [小记](http://liqitian.com/articles/2019/09/03/1567481755050.html)
-* [Java之双亲委托机制的目的](http://liqitian.com/articles/2019/09/02/1567410134330.html)
+* [模板方法模式](https://www.liqitian.com/articles/2019/09/26/1569480595931.html)
+* [我在 GitHub 上的开源项目](https://www.liqitian.com/my-github-repos)
+* [分布式事务（2pc 3pc）](https://www.liqitian.com/articles/2019/09/03/1567490943919.html)
+* [小记](https://www.liqitian.com/articles/2019/09/03/1567481755050.html)
+* [Java之双亲委托机制的目的](https://www.liqitian.com/articles/2019/09/02/1567410134330.html)
 
 
 
