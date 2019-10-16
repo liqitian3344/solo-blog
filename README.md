@@ -10,6 +10,7 @@ liqitian3344的个人博客
 
 ### 最新
 
+* [队列相关整理](https://liqitian.com/articles/2019/10/16/1571193517855.html)
 * [JVM 底层原理知识总结（摘录+补充）](https://liqitian.com/articles/2019/10/15/1571117809892.html)
 * [深入理解JAVA虚拟机_JVM高级特性（读书记录）](https://liqitian.com/articles/2019/09/29/1569729162355.html)
 * [Infinite classification](https://liqitian.com/articles/2019/09/27/1569579745250.html)
