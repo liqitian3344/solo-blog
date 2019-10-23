@@ -10,6 +10,7 @@ liqitian3344的个人博客
 
 ### 最新
 
+* [大话设计模式-装饰者](https://liqitian.com/articles/2019/10/23/1571824752198.html)
 * [大话设计模式-策略](https://liqitian.com/articles/2019/10/18/1571386530276.html)
 * [队列相关整理](https://liqitian.com/articles/2019/10/16/1571193517855.html)
 * [JVM 底层原理知识总结（摘录+补充）](https://liqitian.com/articles/2019/10/15/1571117809892.html)
