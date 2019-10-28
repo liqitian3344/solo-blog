@@ -10,6 +10,7 @@ liqitian3344的个人博客
 
 ### 最新
 
+* [缓存与数据库双写不一致问题](https://liqitian.com/articles/2019/10/28/1572258688530.html)
 * [大话设计模式-装饰者](https://liqitian.com/articles/2019/10/23/1571824752198.html)
 * [大话设计模式-策略](https://liqitian.com/articles/2019/10/18/1571386530276.html)
 * [队列相关整理](https://liqitian.com/articles/2019/10/16/1571193517855.html)
