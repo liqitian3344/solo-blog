@@ -10,6 +10,7 @@ liqitian3344的个人博客
 
 ### 最新
 
+* [JWT（JSON WEB TOKEN）天然分布式验证框架](https://liqitian.com/articles/2019/11/04/1572834876894.html)
 * [ElasticSearch基本概念描述](https://liqitian.com/articles/2019/10/29/1572327018688.html)
 * [redis过期策略与持久化策略](https://liqitian.com/articles/2019/10/29/1572320246189.html)
 * [大话设计模式-装饰者](https://liqitian.com/articles/2019/10/23/1571824752198.html)
