@@ -10,6 +10,7 @@ liqitian3344的个人博客
 
 ### 最新
 
+* [Mysql  Innodb 锁（摘录）](https://liqitian.com/articles/2019/11/07/1573106576595.html)
 * [RocketMQ总结](https://liqitian.com/articles/2019/11/06/1573006088750.html)
 * [JWT（JSON WEB TOKEN）](https://liqitian.com/articles/2019/11/04/1572834876894.html)
 * [ElasticSearch基本概念描述](https://liqitian.com/articles/2019/10/29/1572327018688.html)
