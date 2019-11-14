@@ -10,6 +10,7 @@ liqitian3344的个人博客
 
 ### 最新
 
+* [ShoppingMall-liqitian3344实战练习](https://liqitian.com/articles/2019/11/14/1573695891267.html)
 * [Mysql Test Data InsertUtil](https://liqitian.com/articles/2019/11/10/1573378143990.html)
 * [Mysql  Innodb 锁（摘录）](https://liqitian.com/articles/2019/11/07/1573106576595.html)
 * [RocketMQ总结](https://liqitian.com/articles/2019/11/06/1573006088750.html)
