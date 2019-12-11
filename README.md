@@ -10,7 +10,8 @@ liqitian3344的个人博客
 
 ### 最新
 
-* [mysql-覆盖索引，索引下推总结](https://liqitian.com/articles/2019/12/07/1575729377566.html)
+* [MySQL InnoDB和MyISAM索引结构简析](https://liqitian.com/articles/2019/12/11/1576059397104.html)
+* [MySQL-覆盖索引 、索引下推](https://liqitian.com/articles/2019/12/07/1575729377566.html)
 * [ShoppingMall-liqitian3344实战练习（B2C）](https://liqitian.com/articles/2019/11/14/1573695891267.html)
 * [Mysql Test Data InsertUtil](https://liqitian.com/articles/2019/11/10/1573378143990.html)
 * [Mysql  Innodb 锁（摘录）](https://liqitian.com/articles/2019/11/07/1573106576595.html)
