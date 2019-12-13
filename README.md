@@ -10,6 +10,7 @@ liqitian3344的个人博客
 
 ### 最新
 
+* [Mysql 锁、事务强制手动释放（常用SQL集合）](https://liqitian.com/articles/2019/12/13/1576226976264.html)
 * [MySQL InnoDB和MyISAM索引结构简析](https://liqitian.com/articles/2019/12/11/1576059397104.html)
 * [MySQL-覆盖索引 、索引下推](https://liqitian.com/articles/2019/12/07/1575729377566.html)
 * [ShoppingMall-liqitian3344实战练习（B2C）](https://liqitian.com/articles/2019/11/14/1573695891267.html)
@@ -29,6 +30,9 @@ liqitian3344的个人博客
 * [我在 GitHub 上的开源项目](https://liqitian.com/my-github-repos)
 * [分布式事务（2pc 3pc）](https://liqitian.com/articles/2019/09/03/1567490943919.html)
 * [My notes](https://liqitian.com/articles/2019/09/03/1567481755050.html)
+
+### 热门
+
 * [Java之双亲委托机制的目的](https://liqitian.com/articles/2019/09/02/1567410134330.html)
 
 
